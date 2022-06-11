@@ -1,4 +1,4 @@
 
-def call(string name = 'person'){
-  echo "wekcome to etech, ${name}."
-}
+def call(String repoUrl){
+  echo "git clone, $repoUrl"
+ }
